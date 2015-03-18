@@ -25,8 +25,8 @@ postData = {
     '__EVENTTARGET' : '',
     '__EVENTARGUMENT' : '',
     '__VIEWSTATE' : '/wEPDwULLTEwNjQ2NTM5MjkPZBYCZg9kFgICAw9kFgYCAg8PFgIeB1Zpc2libGVoZGQCBA8PFgQeCENzc0NsYXNzBQdjdXJyZW50HgRfIVNCAgJkZAIJDxYCHwBoZGSOf2cLF27tMf07H/WFBrfbpg0sVQgWjnH7FjYPM/hSkg==',
-    'ctl00$TextBoxXueHao' : '201051395212',
-    'ctl00$TextBoxMiMa' : '01268250',
+    'ctl00$TextBoxXueHao' : '学号',
+    'ctl00$TextBoxMiMa' : '密码',
     'ctl00$ButtonDengRu' : '',
 }
 
